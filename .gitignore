@@ -1,0 +1,16 @@
+# Dependencies
+node_modules/
+.pnpm-store/
+.venv/
+__pycache__/
+
+# Environment / secrets
+.env*
+
+# Logs
+*.log
+
+# OS and editor files
+.DS_Store
+.idea/
+.vscode/
