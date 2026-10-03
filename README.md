@@ -11,3 +11,7 @@ Ghi chú dùng chung cho project mới tham khảo, đỡ chọn lại từ đ�
 - [toast-libs.md](toast-libs.md) — lib toast notification
 - [zod.md](zod.md) — validate schema
 - [zustand.md](zustand.md) — state management
+
+## Ecosystem
+
+Bản đồ các repo cá nhân (ai gọi ai, contract chung, kit thay file nào): [ECOSYSTEM.md](https://github.com/nguyenhuy158/kit/blob/main/docs/ECOSYSTEM.md). Code dùng chung (Biome/TS config, SSO verifier, E2E harness, CI) nằm ở [nguyenhuy158/kit](https://github.com/nguyenhuy158/kit).

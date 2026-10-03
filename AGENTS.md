@@ -47,6 +47,15 @@ Use concise Conventional Commits, for example `docs: add zod note` or
 `docs: update pnpm convention`. Pull requests should include a short summary of
 which notes changed and why.
 
+## Ecosystem
+
+See the [huyab.click ecosystem map](https://github.com/nguyenhuy158/kit/blob/main/docs/ECOSYSTEM.md) for how all personal repos connect.
+
+- Kit packages: none (Markdown only). Conventions noted here that became shared
+  code live in kit: `@huyab/config` (Biome/TS), `@huyab/sso`, `@huyab/e2e`, and the
+  reusable `check.yml` workflow.
+- Talks to: no repo at runtime.
+
 ## Agent-Specific Instructions
 
 Keep responses short and focused. If a requirement is unclear, ask before making
