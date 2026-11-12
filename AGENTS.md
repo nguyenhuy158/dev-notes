@@ -49,7 +49,7 @@ which notes changed and why.
 
 ## Ecosystem
 
-See the [huyab.click ecosystem map](https://github.com/nguyenhuy158/kit/blob/main/docs/ECOSYSTEM.md) for how all personal repos connect.
+See the [huyab.cfd ecosystem map](https://github.com/nguyenhuy158/kit/blob/main/docs/ECOSYSTEM.md) for how all personal repos connect.
 
 - Kit packages: none (Markdown only). Conventions noted here that became shared
   code live in kit: `@huyab/config` (Biome/TS), `@huyab/sso`, `@huyab/e2e`, and the
